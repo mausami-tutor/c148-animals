@@ -1,0 +1,11 @@
+Model Information:
+* title:	tree
+* source:	https://sketchfab.com/3d-models/tree-b4b8fe3ad3f74b5bb1574e1fa942613e
+* author:	adil (https://sketchfab.com/aaadel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tree" (https://sketchfab.com/3d-models/tree-b4b8fe3ad3f74b5bb1574e1fa942613e) by adil (https://sketchfab.com/aaadel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
